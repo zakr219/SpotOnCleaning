@@ -1,0 +1,11 @@
+node_modules/
+client/node_modules/
+server/node_modules/
+client/dist/
+server/accounting.db
+server/accounting.db-shm
+server/accounting.db-wal
+*.db
+*.db-shm
+*.db-wal
+.env
